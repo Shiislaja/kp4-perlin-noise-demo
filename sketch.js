@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 200);
+  createCanvas(windowWidth, windowHeight);
   noLoop(); // Vykreslíme len raz
 }
 
